@@ -11,7 +11,7 @@ I'm working through the Sample Superstore retail dataset. A sales chart can tell
 | Which product groups sell well but keep little profit? | Sales and profit margin by subcategory |
 | Where do discounts coincide with losses? | Profit across discount bands within the same subcategory |
 
-**Next milestone:** Publish one chart that answers the first question, the calculation behind it, and one thing the chart can't tell us.
+**First finding:** Tables ranked fourth by sales but lost $6.83 for every $100 sold. [See the chart, Python analysis, and full results](https://github.com/Shark00O/superstore-profitability).
 
 ## What I'm learning
 
