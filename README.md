@@ -13,7 +13,7 @@ I build practical tools across low-level systems, web technologies, scripting, a
 - Previously studied **Electronics and Communication Engineering (B.Tech)**
 - Interested in secure software, systems programming, automation, data analysis, and developer tooling
 - Comfortable moving across Python, Java, JavaScript, C, C++, HTML/CSS, and Rust
-- Learning through small, documented projects and repeatable evidence
+- Learn through small, documented projects and repeatable evidence
 
 ## Languages & Technologies
 
@@ -31,7 +31,7 @@ I build practical tools across low-level systems, web technologies, scripting, a
 ## Featured Projects
 
 ### [safe-migrate](https://github.com/Shark00O/safe-migrate)
-A zero-dependency, production-safety skill pack for auditing SQL and ORM database migrations. It detects data-loss operations, lock-heavy DDL, table rewrites, missing timeout guards, and produces expand-and-contract migration guidance.
+A zero-dependency skill pack for auditing SQL and ORM database migrations. It detects destructive operations, lock-heavy DDL, table rewrites, missing timeout guards, and suggests expand-and-contract migration guidance.
 
 **Stack:** Python · SQL · PostgreSQL · MySQL · GitHub Actions
 
@@ -44,15 +44,6 @@ A local CSV comparison utility that identifies added, removed, and edited record
 A reproducible retail profitability analysis that separates revenue, margin, discount, and subcategory effects instead of relying on sales volume alone.
 
 **Stack:** Python · Pandas · Data visualization · Reproducible analysis
-
-## Current Focus
-
-```text
-Security fundamentals    ███████████░░░░░░░░░  60%
-Python & automation      ████████████░░░░░░░░  65%
-Git & developer tooling  ████████████░░░░░░░░  65%
-Systems programming      ███████░░░░░░░░░░░░░  40%
-```
 
 ## GitHub Activity
 
